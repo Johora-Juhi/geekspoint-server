@@ -1,0 +1,95 @@
+[{
+    "_id": "011",
+    "author": {
+        "name": "Adrian Demian",
+        "img": "xxx"
+    },
+    "name": "React",
+    "description": "lorem",
+    "image": "",
+    "total-enrolled": "231",
+    "completed": "185",
+    "videos": "16",
+    "video-duration": "12hr 42min 7s",
+    "ratings":"4"
+},
+
+{
+    "_id": "012",
+    "author": {
+        "name": "Jimmy Dane",
+        "img": "xxx"
+    },
+    "name": "CSS3",
+    "description": "lorem",
+    "image": "",
+    "total-enrolled": "231",
+    "completed": "185",
+    "videos": "16",
+    "video-duration": "12hr 42min 7s",
+    "ratings":"3.5"
+},
+
+{
+    "_id": "013",
+    "author": {
+        "name": "Stella Johnson",
+        "img": "xxx"
+    },
+    "name": "JavaScript",
+    "description": "lorem",
+    "image": "",
+    "total-enrolled": "231",
+    "completed": "185",
+    "videos": "16",
+    "video-duration": "12hr 42min 7s",
+    "ratings":"3.5"
+},
+
+{
+    "_id": "014",
+    "author": {
+        "name": "Alex Dolgove",
+        "img": "xxx"
+    },
+    "name": "Python",
+    "description": "lorem",
+    "image": "",
+    "total-enrolled": "231",
+    "completed": "185",
+    "videos": "16",
+    "video-duration": "12hr 42min 7s",
+    "ratings":"4"
+},
+
+{
+    "_id": "015",
+    "author": {
+        "name": "Jimmy Dane",
+        "img": "xxx"
+    },
+    "name": "Angular",
+    "description": "lorem",
+    "image": "",
+    "total-enrolled": "231",
+    "completed": "185",
+    "videos": "16",
+    "video-duration": "12hr 42min 7s",
+    "ratings":"3"
+},
+
+{
+    "_id": "016",
+    "author": {
+        "name": "Claire Robertson",
+        "img": "xxx"
+    },
+    "name": "GraphQL",
+    "description": "lorem",
+    "image": "",
+    "total-enrolled": "231",
+    "completed": "185",
+    "videos": "16",
+    "video-duration": "12hr 42min 7s",
+    "ratings":"4"
+}]
