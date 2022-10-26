@@ -2,15 +2,15 @@
     "_id": "011",
     "author": {
         "name": "Adrian Demian",
-        "img": "xxx"
+        "img": "../assets/author/author1.jpeg"
     },
     "name": "React",
-    "description": "lorem",
-    "image": "",
+    "description": "React. js is one of the most developmentally important frontend libraries you can use. React development has emerged as the future of web creation with its extra versatility and ease. React saves you time and money on development because it's component-based. You can break down an interface into reusable components that allow you to build dynamic user interfaces. This taps into the current thinking behind 'Design Systems'. ReactJS is very easy to learn and more focused than some other JavaScript frameworks. Many businesses are shifting or adopting React library because of the simplicity it provides and ease of use. Ease of Learning React is the best ad",
+    "image": "../assets/courseImages/react.png",
     "total-enrolled": "231",
     "completed": "185",
-    "videos": "16",
-    "video-duration": "12hr 42min 7s",
+    "videos": "88",
+    "video-duration": "14hr 49min 37s",
     "ratings":"4"
 },
 
@@ -18,15 +18,15 @@
     "_id": "012",
     "author": {
         "name": "Jimmy Dane",
-        "img": "xxx"
+        "img": "../assets/author/author3.jpeg"
     },
     "name": "CSS3",
-    "description": "lorem",
-    "image": "",
+    "description": "CSS3, the most recent overhaul, took things to a whole new level. As well as design CSS can now be used to create interactive user interfaces – including web animations. There’s no need for JavaScript, programming expertise or browser plug-ins (although you can still do things that way if you’re so inclined); you can add this finesse to any site with the magic of CSS.With people spending more and more time on their mobile devices than any other platform, it’s imperative that a website is not only optimised for mobile, but maintains a flawless aesthetic and function too. CSS allows designers to present their look and feel consistently as well as effortlessly on the full spectrum of devices, from android to iPhone and beyond. You know the term ‘responsive design?’ CSS is what makes that happen. CSS is a web standard. It works on any platform and any device. And despite what some people may say, it’s easy to use once you know how. So if you want to do anything web development-related, a knowledge of CSS is vital in helping you understand everything else. The same goes for anything front-end related. That’s why CSS is the perfect starting point for new programmers and the perfect jumping-off point for learning advanced programming languages (like Python, Ruby, JavaScript, etc.). It’s the best place to start if you want to go anywhere!",
+    "image": "../assets/courseImages/css3.png",
     "total-enrolled": "231",
     "completed": "185",
-    "videos": "16",
-    "video-duration": "12hr 42min 7s",
+    "videos": "64",
+    "video-duration": "10hr 4min 7s",
     "ratings":"3.5"
 },
 
@@ -34,15 +34,15 @@
     "_id": "013",
     "author": {
         "name": "Stella Johnson",
-        "img": "xxx"
+        "img": "../assets/author/author2.jpeg"
     },
     "name": "JavaScript",
-    "description": "lorem",
-    "image": "",
+    "description": "JavaScript is kind of a lingua franca among coding languages. If you know how to code in JavaScript, there’s no cap to the kind of cool stuff you can program. JavaScript gained a foothold by helping developers code on the client-side (frontend) of websites, but recently, there have been additions to the JavaScript frameworks that make it a great language for coding on the server-side or backend of websites using Node.js.“Javascript everywhere’ (i.e. node.js) has really become the default web-development paradigm,” writes Tom Critchlow in his blog post on web browsers. His answer to why you should learn JavaScript is simply that it’s a language with a can-do attitude, no matter what you want to do with it.Plus, you can get in on some app action, creating web apps, mobile apps, and desktop apps using React, React Native, and Electron. It’s even a decent contender against the likes of Python for doing machine learning work with TensorFlow.js. In short, if you can learn JavaScript, there’s very little you can’t accomplish with this workhorse of a coding language. Unlike R, that’s best for data viz and statistics; or Swift, that’s only useful for iOS, JavaScript is a great language to learn to accomplish a lot of different things. Why learn JavaScript? Because it’ll see you through a wide range of programming tasks you might want to accomplish.",
+    "image": "../assets/courseImages/javaScript.png",
     "total-enrolled": "231",
     "completed": "185",
-    "videos": "16",
-    "video-duration": "12hr 42min 7s",
+    "videos": "79",
+    "video-duration": "13hr 27min 44s",
     "ratings":"3.5"
 },
 
@@ -50,15 +50,15 @@
     "_id": "014",
     "author": {
         "name": "Alex Dolgove",
-        "img": "xxx"
+        "img": "../assets/author/author1.jpeg"
     },
     "name": "Python",
-    "description": "lorem",
-    "image": "",
+    "description": "Python is highly versatile. You can use it for both small and complex tasks, and it is used across many different industries — from its more common applications in data science and software engineering to environments like mobile app development, artificial intelligence, and machine learning. This multifaceted use is due to the wide array of Python libraries available (over 125,000, to be specific). Libraries are collections of pre-written code in a particular language that anyone can access, meaning that once you’ve learned the basics of Python, you’ll likely be able to understand and use a huge amount of code developed by other programmers. Another important aspect of Python’s versatility is its ability to run with other programming languages. A few common examples of Python implementation with other languages are Jython (Python integrated with Java) and CPython (Python integrated with C). Lastly, Python offers cross-platform functionality, meaning that it will function properly whether you’re working with Windows, Linux, or macOS.",
+    "image": "../assets/courseImages/python.png",
     "total-enrolled": "231",
     "completed": "185",
-    "videos": "16",
-    "video-duration": "12hr 42min 7s",
+    "videos": "79",
+    "video-duration": "13hr 14min 7s",
     "ratings":"4"
 },
 
@@ -66,15 +66,15 @@
     "_id": "015",
     "author": {
         "name": "Jimmy Dane",
-        "img": "xxx"
+        "img": "../assets/author/author3.jpeg"
     },
     "name": "Angular",
-    "description": "lorem",
-    "image": "",
+    "description": "Angular puts the developer experience at the forefront. JavaScript is known to introduce some of the most bizarre behavior known to developers. To alleviate headaches Angular provides full support for TypeScript, which offers type safety in our programs.TypeScript existed for 4 years before even Angular became a framework, and the creators of Angular recognized the necessity for type safety in large enterprise apps to boost productivity and diminish bugs in production code. So they opted to be one of the earliest adopters in the JavaScript ecosystem. In my view this was the right move. TypeScript has seen widespread adoption and is a favorite among the community. In the most recent State of JavaScript Survey, 93% of responders were satisfied with TypeScript, so it appears Angular made the right call.",
+    "image": "../assets/courseImages/angular.png",
     "total-enrolled": "231",
     "completed": "185",
-    "videos": "16",
-    "video-duration": "12hr 42min 7s",
+    "videos": "63",
+    "video-duration": "11hr 42min 33s",
     "ratings":"3"
 },
 
@@ -82,14 +82,14 @@
     "_id": "016",
     "author": {
         "name": "Claire Robertson",
-        "img": "xxx"
+        "img": "../assets/author/author3.jpeg"
     },
     "name": "GraphQL",
-    "description": "lorem",
-    "image": "",
+    "description": "GraphQL is transport-independent but is usually provided over HTTP. The nice thing about GraphQL is the fact that the only data that is needed can be requested. Traditionally, data has been consumed through REST (Representational State Transfer) APIs. It is common to provision and deliver complete entities in the REST process. And there arises precisely the problem, which GraphQL tries to solve. Often, we need only a small part from the entities, and we still get them delivered completely. This leads to the so-called overfetching Other times we need several entities, so the so-called underfetching occurs with every request. The GraphQL API provides developers with a single-entry point in which querying can request fitted data. A developer can describe the required data with a syntax. Here, the query is nested, and multiple related objects can be delivered. Each query to the GraphQL endpoint is validated with a type system. The individual services define types in the GraphQL Schema. The type system can be considered a blueprint for the API data. In addition, GraphQL supports many different languages, including C#, Clojure, Elixir, Erlang, and many other languages.",
+    "image": "../assets/courseImages/graphQl.png",
     "total-enrolled": "231",
     "completed": "185",
-    "videos": "16",
-    "video-duration": "12hr 42min 7s",
+    "videos": "57",
+    "video-duration": "9hr 34min 52s",
     "ratings":"4"
 }]
