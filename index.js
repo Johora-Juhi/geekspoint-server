@@ -3,6 +3,8 @@ const cors = require('cors')
 const app = express();
 const port = process.env.PORT || 5000;
 
+
+// middleware 
 app.use(cors())
 
 const courses = require('./data/coursesName.json')
